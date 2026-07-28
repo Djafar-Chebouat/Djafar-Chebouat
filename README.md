@@ -36,6 +36,8 @@
   <a href="https://www.reddit.com/user/Djafa_Chebouat-09">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
+
+  
 </p>
 ## Currently
 - 👯 I’m looking to collaborate on projects involving Python...
