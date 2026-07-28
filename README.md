@@ -101,16 +101,3 @@
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/djafarch">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/Djafar_1">
-    <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=A78BFA&labelColor=0A101F" alt="X Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/Djafa_Chebouat-09">
-    <img src="https://img.shields.io/badge/Reddit-0A101F?style=for-the-badge&logo=reddit&logoColor=10B981&labelColor=0A101F" alt="Reddit" />
-  </a>
-</div>
