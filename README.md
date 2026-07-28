@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <b>"Programs must be written for people to read, and incidentally for machines to execute."</b>
+  <b>Programs must be written for people to read, and incidentally for machines to execute.</b>
 </p>
 <br>
 
