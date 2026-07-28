@@ -2,15 +2,6 @@
 
 "Teaching machines while debugging humans."
 
-<h2 align="center">AI Engineer | Full Stack Developer</h2>
-
----
-
-<br>
-<p align="center">
-  <b>"Programs must be written for people to read, and incidentally for machines to execute."</b>
-</p>
-<br>
 
 ## Who ?
 ---
