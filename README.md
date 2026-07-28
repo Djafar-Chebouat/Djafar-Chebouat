@@ -1,4 +1,4 @@
-# AI Engineer | Full Stack Developer
+# Network Engineer | Full Stack Developer
 
 "Programs must be written for people to read, and incidentally for machines to execute."
 
