@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aboubaker0022&repo=YOUR_REPO_NAME)](https://github.com/aboubaker0022/YOUR_REPO_NAME)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=aboubaker0022&repo=YOUR_REPO_NAME)](https://github.com/aboubaker0022/YOUR_REPO_NAME](https://github.com/anuraghazra/github-readme-stats.git))
