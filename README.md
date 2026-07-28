@@ -39,7 +39,8 @@
 
   
 </p>
-## Currently
+### Currently
+---
 - 👯 I’m looking to collaborate on projects involving Python...
 - 😉 I'm available for collaboration at the moment.
 
