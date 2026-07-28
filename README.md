@@ -1,7 +1,12 @@
-# Network Engineer | Full Stack Developer
+<h2 align="center">Network Engineer | Full Stack Developer</h2>
 
-"Teaching machines while debugging humans."
+---
 
+<br>
+<p align="center">
+  <b>"Programs must be written for people to read, and incidentally for machines to execute."</b>
+</p>
+<br>
 
 ## Who ?
 ---
